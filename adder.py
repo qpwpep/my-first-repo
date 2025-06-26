@@ -1,2 +1,2 @@
-def add(n,m):
+def adder(n,m):
     return int(n+m)
